@@ -1,15 +1,15 @@
-# IMCServlet
+# imcService
 # Gleidimar Luiz
 
- IMCServlet
+ imcService
 
-# Cálculo de índice de massa corporal (IMC) utilizando servlet.
+# Cálculo de índice de massa corporal (IMC) utilizando jSon.
 
 Para rodar o projeto
 
 <h1> Para fazer clone </h1> 
 
-git clone https://github.com/zeewstyle/IMCServlet
+git clone https://github.com/zeewstyle/imcService
 
 <h1> Para rodar com o Tomcat. </h1>
 
@@ -19,7 +19,7 @@ mvnw org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=9090
 
 # Para acessar a aplicação
 
-http://localhost:9090/IMCServlet/mvc/calculo-imc em qualquer navegador.
+http://localhost:9090/imcService em qualquer navegador.
 
 # Para "empacotar" a aplicação.
 
